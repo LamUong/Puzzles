@@ -1,5 +1,7 @@
 '''
-Sam and Polly are perfectly logical mathematicians. A student walks in and says: “I’m thinking of two numbers x and y, with 3 <= x <= y <= 97. I’ll tell their sum to Sam, and their product to Polly.” She does so, then leaves, and the following conversation takes place:
+Sam and Polly are perfectly logical mathematicians. 
+A student walks in and says: “I’m thinking of two numbers x and y, with 3 <= x <= y <= 97.
+ I’ll tell their sum to Sam, and their product to Polly.” She does so, then leaves, and the following conversation takes place:
 Sam (to Polly): You can’t know what x and y are.
 Polly (to Sam): That was true, but now I know.
 Sam (to Polly): Now I know too.
